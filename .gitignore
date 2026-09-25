@@ -1,0 +1,5 @@
+.env
+analyser.db
+analyser.db-shm
+analyser.db-wal
+\__pycache__
